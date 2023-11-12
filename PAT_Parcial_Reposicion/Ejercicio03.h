@@ -5,6 +5,6 @@
 class Ejercicio03
 {
 public:
-	Node<int>* detectCycle(Node<int>* head);
+    Node<int>* detectCycle(Node<int>* head);
 };
 
